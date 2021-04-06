@@ -1,0 +1,26 @@
+.user-container
+{
+    font-size : 18px;
+    border-bottom: 1px solid grey;
+    padding : 10px;
+    display : flex;
+    justify-content : space-between;
+}
+hr {
+    margin-left: 0;
+    max-width: 40px;
+  }
+  
+  .view {
+    height: 100%;
+  }
+ 
+
+  h1,p
+  {
+      color : black
+  }
+  
+  
+  /* Bustom button */
+  
